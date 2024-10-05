@@ -3,12 +3,12 @@ Meta Coding Interview 2024
 
 
 - [ ] | **Question Number** | **Title** | **Link** |
-- [x] | 7  |                 |           |
-- [ ] | 19 |                 |           |
-- [ ] | 21 |                 |           |
-- [ ] | 23 |                 |           |
-- [ ] | 26 |                 |           |
-- [ ] | 31 |                 |           |
+- [x] | 7  |     Reverse Integer            |     https://leetcode.com/problems/reverse-integer/description/      |
+- [x] | 19 |      Remove Nth Node From End of List           |     https://leetcode.com/problems/remove-nth-node-from-end-of-list/description/      |
+- [x] | 21 |       Merge Two Sorted Lists          |      https://leetcode.com/problems/merge-two-sorted-lists/     |
+- [x] | 23 |       Merge k Sorted Lists          |    https://leetcode.com/problems/merge-k-sorted-lists/       |
+- [x] | 26 |       Remove Duplicates from Sorted Array        |     https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/      |
+- [x] | 31 |       Next Permutation          |     https://leetcode.com/problems/next-permutation/description/      |
 - [ ] | 34 |                 |           |
 - [ ] | 39 |                 |           |
 - [ ] | 43 |                 |           |
