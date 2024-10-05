@@ -9,7 +9,7 @@ Meta Coding Interview 2024
 | - [ ] 21            |           |          |
 | - [ ] 23            |           |          |
 | - [ ] 26            |           |          |
-| - [ ] 31            |           |          |
+| - [ ] 31            |    Next Permutation       |      https://leetcode.com/problems/next-permutation/description/    |
 | - [ ] 34            |           |          |
 | - [ ] 39            |           |          |
 | - [ ] 43            |           |          |
