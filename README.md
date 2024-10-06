@@ -10,9 +10,9 @@ Meta Coding Interview 2024
 | - [x] | 23  |     Merge k Sorted Lists      |    https://leetcode.com/problems/merge-k-sorted-lists/description/       |
 | - [x] | 26  |     Remove Duplicates from Sorted Array      |    https://leetcode.com/problems/remove-duplicates-from-sorted-array/description/       |
 | - [x] | 31  |     Next Permutation      |     https://leetcode.com/problems/next-permutation/description/      |
-| - [ ] | 34  |           |           |
-| - [ ] | 39  |           |           |
-| - [ ] | 43  |           |           |
+| - [x] | 34  |     Find First and Last Position of Element in Sorted Array   |    https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/       |
+| - [x] | 39  |     Combination Sum      |     https://leetcode.com/problems/combination-sum/description/      |
+| - [x] | 43  |     Multiply Strings      |     https://leetcode.com/problems/multiply-strings/description/       |
 | - [ ] | 50  |           |           |
 | - [ ] | 56  |           |           |
 | - [ ] | 60  |           |           |
