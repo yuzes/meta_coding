@@ -13,15 +13,15 @@ Meta Coding Interview 2024
 | - [x] | 34  |     Find First and Last Position of Element in Sorted Array   |    https://leetcode.com/problems/find-first-and-last-position-of-element-in-sorted-array/description/       |
 | - [x] | 39  |     Combination Sum      |     https://leetcode.com/problems/combination-sum/description/      |
 | - [x] | 43  |     Multiply Strings      |     https://leetcode.com/problems/multiply-strings/description/       |
-| - [x] | 50  |           |           |
-| - [x] | 56  |           |           |
-| - [ ] | 60  |           |           |
+| - [x] | 50  |     Pow(x, n)     |   https://leetcode.com/problems/powx-n/description/        |
+| - [x] | 56  |     Merge Intervals      |    https://leetcode.com/problems/merge-intervals/description/       |
+| - [x] | 60  |     [HARD] Permutation Sequence     |    https://leetcode.com/problems/permutation-sequence/description/       |
 | - [ ] | 62  |           |           |
 | - [ ] | 65  |           |           |
 | - [ ] | 71  |           |           |
 | - [ ] | 76  |           |           |
 | - [ ] | 79  |           |           |
-| - [x] | 88  |           |           |
+| - [x] | 88  |     Merge Sorted Array      |     https://leetcode.com/problems/merge-sorted-array/description/      |
 | - [ ] | 116 |           |           |
 | - [ ] | 121 |           |           |
 | - [ ] | 125 |           |           |
