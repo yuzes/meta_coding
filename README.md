@@ -16,19 +16,19 @@ Meta Coding Interview 2024
 | - [x] | 50  |     Pow(x, n)     |   https://leetcode.com/problems/powx-n/description/        |
 | - [x] | 56  |     Merge Intervals      |    https://leetcode.com/problems/merge-intervals/description/       |
 | - [x] | 60  |     [HARD] Permutation Sequence     |    https://leetcode.com/problems/permutation-sequence/description/       |
-| - [ ] | 62  |           |           |
-| - [ ] | 65  |           |           |
-| - [ ] | 71  |           |           |
-| - [ ] | 76  |           |           |
-| - [ ] | 79  |           |           |
+| - [x] | 62  |     Unique Paths     |    https://leetcode.com/problems/unique-paths/description/       |
+| - [x] | 65  |     Valid Number      |   https://leetcode.com/problems/valid-number/description/        |
+| - [x] | 71  |     Simplify Path      |   https://leetcode.com/problems/simplify-path/description/        |
+| - [x] | 76  |     Minimum Window Substring      |   https://leetcode.com/problems/minimum-window-substring/description/        |
+| - [x] | 79  |     Word Search      |    https://leetcode.com/problems/word-search/description/       |
 | - [x] | 88  |     Merge Sorted Array      |     https://leetcode.com/problems/merge-sorted-array/description/      |
-| - [ ] | 116 |           |           |
-| - [ ] | 121 |           |           |
-| - [ ] | 125 |           |           |
-| - [ ] | 127 |           |           |
-| - [ ] | 129 |           |           |
-| - [ ] | 133 |           |           |
-| - [ ] | 138 |           |           |
+| - [x] | 116 |     Populating Next Right Pointers in Each Node      |    https://leetcode.com/problems/populating-next-right-pointers-in-each-node/description/       |
+| - [x] | 121 |     Best Time to Buy and Sell Stock      |     https://leetcode.com/problems/best-time-to-buy-and-sell-stock/description/      |
+| - [x] | 125 |     Valid Palindrome      |    https://leetcode.com/problems/valid-palindrome/description/       |
+| - [x] | 127 |     Word Ladder      |    https://leetcode.com/problems/word-ladder/description/       |
+| - [x] | 129 |     Sum Root to Leaf Numbers      |    https://leetcode.com/problems/sum-root-to-leaf-numbers/       |
+| - [x] | 133 |     Clone Graph      |    https://leetcode.com/problems/clone-graph/description/       |
+| - [x] | 138 |     Copy List with Random Pointer      |   https://leetcode.com/problems/copy-list-with-random-pointer/description/        |
 | - [ ] | 140 |           |           |
 | - [ ] | 146 |           |           |
 | - [ ] | 162 |           |           |
