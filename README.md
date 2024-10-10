@@ -29,19 +29,19 @@ Meta Coding Interview 2024
 | - [x] | 129 |     Sum Root to Leaf Numbers      |    https://leetcode.com/problems/sum-root-to-leaf-numbers/       |
 | - [x] | 133 |     Clone Graph      |    https://leetcode.com/problems/clone-graph/description/       |
 | - [x] | 138 |     Copy List with Random Pointer      |   https://leetcode.com/problems/copy-list-with-random-pointer/description/        |
-| - [ ] | 140 |           |           |
-| - [ ] | 146 |           |           |
-| - [ ] | 162 |           |           |
-| - [ ] | 190 |           |           |
-| - [ ] | 199 |           |           |
-| - [ ] | 200 |           |           |
-| - [ ] | 207 |           |           |
-| - [ ] | 210 |           |           |
-| - [ ] | 215 |           |           |
-| - [ ] | 219 |           |           |
-| - [ ] | 224 |           |           |
-| - [ ] | 227 |           |           |
-| - [ ] | 236 |           |           |
+| - [x] | 140 |           |           |
+| - [x] | 146 |           |           |
+| - [x] | 162 |           |           |
+| - [x] | 190 |           |           |
+| - [x] | 199 |           |           |
+| - [x] | 200 |           |           |
+| - [x] | 207 |           |           |
+| - [x] | 210 |           |           |
+| - [x] | 215 |           |           |
+| - [x] | 219 |           |           |
+| - [x] | 224 |           |           |
+| - [x] | 227 |           |           |
+| - [x] | 236 |           |           |
 | - [ ] | 249 |           |           |
 | - [ ] | 266 |           |           |
 | - [ ] | 283 |           |           |
